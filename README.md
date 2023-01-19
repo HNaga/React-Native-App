@@ -16,6 +16,7 @@ npm i react-native-gesture-handler
 npm i react-native-safe-area-context
 npm i react-native-web
 
+# if you got Expo not found
 expo-cli upgrade
 
 # modify code
